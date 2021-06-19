@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baibhab221B
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning JAVA and C++
-- 💞️ I’m looking to collaborate on GITHUB
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me baibhabnayak2020@gmail.com
 
 <!---
